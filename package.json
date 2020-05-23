@@ -1,7 +1,7 @@
 {
-  "name": "hw_10",
+  "name": "webpack-starter-kit",
   "version": "1.1.0",
-  "description": "",
+  "description": "[Живая страница](https://luxplanjay.github.io/webpack-starter-kit/) после деплоя через `npm run deploy`.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --env.mode development --config ./webpack/config.js",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OlexandrManziuk/goit-js-hw-10-food-service.git"
+    "url": "git+https://github.com/luxplanjay/webpack-starter-kit.git"
   },
   "keywords": [],
-  "author": "Olexandr Manziuk <radnik.av@ukr.net>",
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OlexandrManziuk/goit-js-hw-10-food-service/issues"
+    "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
   "homepage": "https://olexandrmanziuk.github.io/goit-js-hw-10-food-service/",
   "devDependencies": {
